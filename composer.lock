@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6f1f1fb74dc59c85bb04d1951b2e82ba",
+    "content-hash": "3ba2c6bea280e91e4d11da5dee3f11e4",
     "packages": [
         {
             "name": "aimeos/ai-admin-graphql",
@@ -58,16 +58,16 @@
         },
         {
             "name": "aimeos/ai-admin-jqadm",
-            "version": "2023.04.8",
+            "version": "2023.04.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/ai-admin-jqadm.git",
-                "reference": "8c2d8947f427ff25fad2312b36809977cc853e3f"
+                "reference": "8a01b0c04c2e8b73cec9f5d96d73d1f8ac4d8adf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/ai-admin-jqadm/zipball/8c2d8947f427ff25fad2312b36809977cc853e3f",
-                "reference": "8c2d8947f427ff25fad2312b36809977cc853e3f",
+                "url": "https://api.github.com/repos/aimeos/ai-admin-jqadm/zipball/8a01b0c04c2e8b73cec9f5d96d73d1f8ac4d8adf",
+                "reference": "8a01b0c04c2e8b73cec9f5d96d73d1f8ac4d8adf",
                 "shasum": ""
             },
             "require": {
@@ -106,7 +106,7 @@
                 "source": "https://github.com/aimeos/ai-admin-jqadm",
                 "wiki": "https://aimeos.org/docs"
             },
-            "time": "2023-06-26T06:54:10+00:00"
+            "time": "2023-06-27T08:29:46+00:00"
         },
         {
             "name": "aimeos/ai-admin-jsonadm",
@@ -161,16 +161,16 @@
         },
         {
             "name": "aimeos/ai-client-html",
-            "version": "2023.04.3",
+            "version": "2023.04.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/ai-client-html.git",
-                "reference": "6f714d5d703d8ddb5833adc4069e3078706b1c01"
+                "reference": "4937eebe5b499461d6eac2bd6812f0b800764475"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/ai-client-html/zipball/6f714d5d703d8ddb5833adc4069e3078706b1c01",
-                "reference": "6f714d5d703d8ddb5833adc4069e3078706b1c01",
+                "url": "https://api.github.com/repos/aimeos/ai-client-html/zipball/4937eebe5b499461d6eac2bd6812f0b800764475",
+                "reference": "4937eebe5b499461d6eac2bd6812f0b800764475",
                 "shasum": ""
             },
             "require": {
@@ -209,7 +209,7 @@
                 "source": "https://github.com/aimeos/ai-client-html",
                 "wiki": "https://aimeos.org/docs"
             },
-            "time": "2023-05-15T12:52:57+00:00"
+            "time": "2023-06-27T07:42:00+00:00"
         },
         {
             "name": "aimeos/ai-client-jsonapi",
@@ -264,16 +264,16 @@
         },
         {
             "name": "aimeos/ai-cms-grapesjs",
-            "version": "2023.04.1",
+            "version": "2023.04.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/ai-cms-grapesjs.git",
-                "reference": "2f70f726749c05002144a1c4aec8bec06b19a1e2"
+                "reference": "e8e4691bb502cf27d812a1e55236815e647f45b4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/ai-cms-grapesjs/zipball/2f70f726749c05002144a1c4aec8bec06b19a1e2",
-                "reference": "2f70f726749c05002144a1c4aec8bec06b19a1e2",
+                "url": "https://api.github.com/repos/aimeos/ai-cms-grapesjs/zipball/e8e4691bb502cf27d812a1e55236815e647f45b4",
+                "reference": "e8e4691bb502cf27d812a1e55236815e647f45b4",
                 "shasum": ""
             },
             "require": {
@@ -310,9 +310,9 @@
             ],
             "support": {
                 "issues": "https://github.com/aimeos/ai-cms-grapesjs/issues",
-                "source": "https://github.com/aimeos/ai-cms-grapesjs/tree/2023.04.1"
+                "source": "https://github.com/aimeos/ai-cms-grapesjs/tree/2023.04.2"
             },
-            "time": "2023-04-04T11:03:04+00:00"
+            "time": "2023-05-31T13:30:37+00:00"
         },
         {
             "name": "aimeos/ai-controller-frontend",
@@ -366,16 +366,16 @@
         },
         {
             "name": "aimeos/ai-controller-jobs",
-            "version": "2023.04.2",
+            "version": "2023.04.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/ai-controller-jobs.git",
-                "reference": "95a25ad2a26a34556c26283c987d2788ebcc6a30"
+                "reference": "229530e1e1d1a28d140df6e27cfd4b526de13171"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/ai-controller-jobs/zipball/95a25ad2a26a34556c26283c987d2788ebcc6a30",
-                "reference": "95a25ad2a26a34556c26283c987d2788ebcc6a30",
+                "url": "https://api.github.com/repos/aimeos/ai-controller-jobs/zipball/229530e1e1d1a28d140df6e27cfd4b526de13171",
+                "reference": "229530e1e1d1a28d140df6e27cfd4b526de13171",
                 "shasum": ""
             },
             "require": {
@@ -413,7 +413,7 @@
                 "source": "https://github.com/aimeos/ai-controller-jobs",
                 "wiki": "https://aimeos.org/docs"
             },
-            "time": "2023-05-15T12:54:34+00:00"
+            "time": "2023-05-27T08:31:22+00:00"
         },
         {
             "name": "aimeos/ai-laravel",
@@ -609,16 +609,16 @@
         },
         {
             "name": "aimeos/aimeos-laravel",
-            "version": "2023.04.2",
+            "version": "2023.04.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aimeos/aimeos-laravel.git",
-                "reference": "e07f619c04c36d1afa4d09a0fd8286b4ee427d12"
+                "reference": "7e5948a7beae9ecd80c3106d20e0f3c0a6701a5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aimeos/aimeos-laravel/zipball/e07f619c04c36d1afa4d09a0fd8286b4ee427d12",
-                "reference": "e07f619c04c36d1afa4d09a0fd8286b4ee427d12",
+                "url": "https://api.github.com/repos/aimeos/aimeos-laravel/zipball/7e5948a7beae9ecd80c3106d20e0f3c0a6701a5f",
+                "reference": "7e5948a7beae9ecd80c3106d20e0f3c0a6701a5f",
                 "shasum": ""
             },
             "require": {
@@ -686,7 +686,7 @@
                 "source": "https://github.com/Aimeos/aimeos-laravel",
                 "wiki": "https://aimeos.org/docs"
             },
-            "time": "2023-05-30T14:09:20+00:00"
+            "time": "2023-06-25T17:35:50+00:00"
         },
         {
             "name": "aimeos/macro",
@@ -2265,6 +2265,68 @@
                 }
             ],
             "time": "2023-05-04T21:18:23+00:00"
+        },
+        {
+            "name": "laravel/breeze",
+            "version": "v1.21.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/breeze.git",
+                "reference": "1cb124f74debc1d5914a7bf2856b793c44ba396d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/breeze/zipball/1cb124f74debc1d5914a7bf2856b793c44ba396d",
+                "reference": "1cb124f74debc1d5914a7bf2856b793c44ba396d",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/console": "^10.0",
+                "illuminate/filesystem": "^10.0",
+                "illuminate/support": "^10.0",
+                "illuminate/validation": "^10.0",
+                "php": "^8.1.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^8.0",
+                "phpstan/phpstan": "^1.10"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                },
+                "laravel": {
+                    "providers": [
+                        "Laravel\\Breeze\\BreezeServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Laravel\\Breeze\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Taylor Otwell",
+                    "email": "taylor@laravel.com"
+                }
+            ],
+            "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.",
+            "keywords": [
+                "auth",
+                "laravel"
+            ],
+            "support": {
+                "issues": "https://github.com/laravel/breeze/issues",
+                "source": "https://github.com/laravel/breeze"
+            },
+            "time": "2023-06-16T21:23:43+00:00"
         },
         {
             "name": "laravel/framework",
@@ -7620,16 +7682,16 @@
         },
         {
             "name": "nunomaduro/collision",
-            "version": "v7.6.0",
+            "version": "v7.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/collision.git",
-                "reference": "87faf7bc1c42d7fef7c60ec5c143050ce2a6189a"
+                "reference": "69a07197d055456d29911116fca3bc2c985f524b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/87faf7bc1c42d7fef7c60ec5c143050ce2a6189a",
-                "reference": "87faf7bc1c42d7fef7c60ec5c143050ce2a6189a",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/69a07197d055456d29911116fca3bc2c985f524b",
+                "reference": "69a07197d055456d29911116fca3bc2c985f524b",
                 "shasum": ""
             },
             "require": {
@@ -7642,18 +7704,18 @@
                 "phpunit/phpunit": "<10.1.2"
             },
             "require-dev": {
-                "brianium/paratest": "^7.2.0",
-                "laravel/framework": "^10.13.5",
-                "laravel/pint": "^1.10.2",
-                "laravel/sail": "^1.22.0",
+                "brianium/paratest": "^7.2.2",
+                "laravel/framework": "^10.14.1",
+                "laravel/pint": "^1.10.3",
+                "laravel/sail": "^1.23.0",
                 "laravel/sanctum": "^3.2.5",
                 "laravel/tinker": "^2.8.1",
                 "nunomaduro/larastan": "^2.6.3",
-                "orchestra/testbench-core": "^8.5.7",
-                "pestphp/pest": "^2",
+                "orchestra/testbench-core": "^8.5.8",
+                "pestphp/pest": "^2.8.1",
                 "phpunit/phpunit": "^10.2.2",
                 "sebastian/environment": "^6.0.1",
-                "spatie/laravel-ignition": "^2.1.3"
+                "spatie/laravel-ignition": "^2.2.0"
             },
             "type": "library",
             "extra": {
@@ -7712,7 +7774,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2023-06-15T10:51:08+00:00"
+            "time": "2023-06-29T09:10:16+00:00"
         },
         {
             "name": "phar-io/manifest",
