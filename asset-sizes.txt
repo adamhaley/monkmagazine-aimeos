@@ -1,5 +1,32 @@
+Logo Slot
+120px x 30px
+
 Product Images:
-two images, one front one back 
+two images for each product, one front one back 
 240px x 320px
 
+Hero Slideshow Images:
+1920px x 862px
 
+Full Res Product Images 
+(for product detail pages)
+1350px x 1800px
+2 images per product
+
+Other Content:
+
+LEGAL
+Terms and Conditions
+
+Privacy Notice
+
+Cancellaton
+
+About Us
+
+Company
+
+Facebook
+Twitter
+instagram
+YouTube
