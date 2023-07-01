@@ -9,19 +9,19 @@ return [
 	'version' => env( 'APP_VERSION', 1 ), // shop CSS/JS file version
 
 	'routes' => [
-		// Docs: https://aimeos.org/docs/latest/laravel/extend/#custom-routes
+//		 Docs: https://aimeos.org/docs/latest/laravel/extend/#custom-routes
 		// Multi-sites: https://aimeos.org/docs/latest/laravel/customize/#multiple-shops
-		// 'admin' => ['prefix' => 'admin', 'middleware' => ['web']],
+		 'admin' => ['prefix' => 'admin', 'middleware' => ['web']],
 		// 'jqadm' => ['prefix' => 'admin/{site}/jqadm', 'middleware' => ['web', 'auth']],
 		// 'graphql' => ['prefix' => 'admin/{site}/graphql', 'middleware' => ['web', 'auth']],
 		// 'jsonadm' => ['prefix' => 'admin/{site}/jsonadm', 'middleware' => ['web', 'auth']],
 		// 'jsonapi' => ['prefix' => 'jsonapi', 'middleware' => ['web', 'api']],
-		// 'account' => ['prefix' => 'profile', 'middleware' => ['web', 'auth']],
-		// 'default' => ['prefix' => 'shop', 'middleware' => ['web']],
-		// 'confirm' => ['prefix' => 'shop', 'middleware' => ['web']],
+		 'account' => ['prefix' => 'profile', 'middleware' => ['web', 'auth']],
+		 'default' => ['prefix' => 'shop', 'middleware' => ['web']],
+		 'confirm' => ['prefix' => 'shop', 'middleware' => ['web']],
 		// 'supplier' => ['prefix' => 's', 'middleware' => ['web']],
-		// 'page' => ['prefix' => 'p', 'middleware' => ['web']],
-		// 'home' => ['middleware' => ['web']],
+		 'page' => ['prefix' => 'p', 'middleware' => ['web']],
+		 'home' => ['middleware' => ['web']],
 		// 'update' => [],
 	],
 
