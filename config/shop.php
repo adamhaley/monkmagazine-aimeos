@@ -115,7 +115,6 @@ return [
 	],
 
 	'admin' => [],
-
 	'client' => [
 		'html' => [
 			'basket' => [
@@ -159,12 +158,12 @@ return [
 	'madmin' => [
 		'cache' => [
 			'manager' => [
-				// 'name' => 'None', // Disable caching for development
+				 'name' => 'None', // Disable caching for development
 			],
 		],
 		'log' => [
 			'manager' => [
-				// 'loglevel' => 7, // Enable debug logging into madmin_log table
+				 'loglevel' => 7, // Enable debug logging into madmin_log table
 			],
 		],
 	],
